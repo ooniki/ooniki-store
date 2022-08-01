@@ -1,0 +1,23 @@
+{
+  "name": "ooniki-store",
+  "version": "1.0.1",
+  "description": "javascript store (works with svelte)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ooniki/ooniki-store.git"
+  },
+  "keywords": [
+    "ooniki",
+    "store"
+  ],
+  "author": "ooniki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ooniki/ooniki-store/issues"
+  },
+  "homepage": "https://github.com/ooniki/ooniki-store#readme"
+}
