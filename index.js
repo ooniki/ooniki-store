@@ -98,7 +98,7 @@ const createBaseStore = function (id, storeData, propName) {
 
 	store.subscribe = function (callBack, id) {
 		const myCallback = function (value) {
-			console.log('CALL: ' + store.__id + ' ' + JSON.stringify(value));
+			//console.log('CALL: ' + store.__id + ' ' + JSON.stringify(value));
 			callBack(value);
 		}
 		//console.log('SUB: ' + store.__id);
